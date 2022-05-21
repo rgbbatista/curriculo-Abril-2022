@@ -1,1 +1,2 @@
-# curriculo-Abril-2022
+# curriculoDigital
+Projeto executado com HTML e CSS
